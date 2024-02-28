@@ -1,3 +1,3 @@
 FROM ollama/ollama:latest
 
-CMD ["run", "mistral"]
+CMD ["run", "llama2"]
